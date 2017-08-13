@@ -1,0 +1,755 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     AEGEANSEA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+16	15	Up-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ALATICOCEAN
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+14	2	Up-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ALBANIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+16	15	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ANDORRA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+16	18	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ARCTICOCEAN
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+14	22	Up-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     AUSTRIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+18	9	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     BELARUS
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+4	4	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     BELGIUM
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+11	13	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     BLACKSEA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+5	9	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     BOSNIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+21	19	Up-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     BULGARIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+21	2	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     CROATIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+19	9	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     CYPRUS
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+20	6	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     CZECHREPUBLIC
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+4	16	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     DENMARK
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+7	14	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ENGLISHCHANNEL
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+2	5	Down-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ESTONIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+14	8	Down-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     FINLAND
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+1	20	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     FRANCE
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+22	1	Horizontal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     GERMANY
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+2	12	Horizontal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     GREECE
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+17	12	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     HUNGARY
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+6	12	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ICELAND
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+7	21	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     IRELAND
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+3	7	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ITALY
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+5	6	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     LATVIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+4	15	Down-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     LIECHTENSTEIN
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+6	8	Horizontal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     LITHUANIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+13	2	Up-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     IONIANSEA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+5	6	Down-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     LUXEMBOURG
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+11	8	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     MACEDONIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+11	11	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     MALTA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+22	17	Horizontal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     MEDITERRANEANSEA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+20	10	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     MOLDOVA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+1	3	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     MONACO
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+3	20	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     MONTENEGRO
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+4	14	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     NETHERLANDS
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+8	21	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     NORTHSEA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+10	2	Up-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     NORWAY
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+18	17	Down-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     POLAND
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+23	15	Up-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     PORTUGAL
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+22	15	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     ROMANIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+17	9	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     RUSSIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+22	8	Horizontal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SANMARINO
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+3	13	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SERBIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+11	6	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SLOVAKIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+10	9	Down-Left Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SLOVENIA
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+10	14	Up-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SPAIN
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+22	17	Up-Right Diagonal
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SWEDEN
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+10	14	Upside-Down
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     SWITZERLAND
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+8	18	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     TURKEY
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+14	12	Backwards
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     UKRAINE
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     UNITEDKINGDOM
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+10	17	Vertical
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Input Filename:         homework-1.txt
+Word Being Located:     VATICANCITY
+Number of Words Found:  1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Row	Column	Direction
+----------------------------------------
+19	16	Upside-Down
